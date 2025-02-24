@@ -17,6 +17,7 @@
 		011694B72D6C38E40045DD42 /* tableExtentionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011694B62D6C38E40045DD42 /* tableExtentionTests.swift */; };
 		011694C12D6C38E40045DD42 /* tableExtentionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011694C02D6C38E40045DD42 /* tableExtentionUITests.swift */; };
 		011694C32D6C38E50045DD42 /* tableExtentionUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011694C22D6C38E50045DD42 /* tableExtentionUITestsLaunchTests.swift */; };
+		011694D02D6C44C30045DD42 /* Table+Extention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011694CF2D6C44C30045DD42 /* Table+Extention.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		011694BC2D6C38E40045DD42 /* tableExtentionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tableExtentionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		011694C02D6C38E40045DD42 /* tableExtentionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableExtentionUITests.swift; sourceTree = "<group>"; };
 		011694C22D6C38E50045DD42 /* tableExtentionUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableExtentionUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		011694CF2D6C44C30045DD42 /* Table+Extention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Table+Extention.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				0116949C2D6C38E20045DD42 /* AppDelegate.swift */,
 				0116949E2D6C38E20045DD42 /* SceneDelegate.swift */,
 				011694A02D6C38E20045DD42 /* ViewController.swift */,
+				011694CF2D6C44C30045DD42 /* Table+Extention.swift */,
 				011694A22D6C38E20045DD42 /* Main.storyboard */,
 				011694A82D6C38E40045DD42 /* Assets.xcassets */,
 				011694AA2D6C38E40045DD42 /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				011694A12D6C38E20045DD42 /* ViewController.swift in Sources */,
 				011694A72D6C38E20045DD42 /* tableExtention.xcdatamodeld in Sources */,
 				0116949D2D6C38E20045DD42 /* AppDelegate.swift in Sources */,
+				011694D02D6C44C30045DD42 /* Table+Extention.swift in Sources */,
 				0116949F2D6C38E20045DD42 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
